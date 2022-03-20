@@ -1,0 +1,21 @@
+Pokemon game project.
+
+Game summary.
+
+This pokemon 2D is a kind of Mario game. which is contain much more functionality.
+In this game the player can catch avatars, increase the strength stats of the avatars , evolve them and
+switch them any time. The damage taken is according pokemon original games.
+
+#Game variable   - including all global variables and dict
+#pygame variable - variable which must be in main file
+#game images     - including all images and functionality
+#game sounds     - including all sounds and functionality
+#level editor    - GUI to create csv file which contain world and obstacle data
+#pokemon data    - contain states , moves , evolving and scales data of each pokemon
+#game text       - including the functionality of game text (fonts are in game variable)
+#game buttons    - Clickable button functionality
+
+#OOP - player(enemy),world ,obstacles , setting classes, pause , party page
+
+# player class - also enemy class
+#
