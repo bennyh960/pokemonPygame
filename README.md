@@ -1,12 +1,19 @@
-# pokemonPygame
-Beta version of my first pygame project.
+# Pokemon Game (OOP)
+Beta version of my first python project during self-learning of python language and pygame library. I investigate the pygame documention and develop a 2D game where the main characters are pokemons whos able to run , fight , jump , shoot , die and even catch other pokemon (who became main characters also ). 
 
-The project started during my learning the python languge and i excresie with this project.
-I still have a lot of work in the logic ,code view ,fixing bugs and the game features.
-Code view - i want to reduce the amount of line by 30% 
-      example : the game loop very massy in my opinion and hard to maintin.
-Logic - will apllyied by fixing the code view , 
-      example : will use in text files in order to import data from net instead creat it by myself.
-fixing bugs - TODO list (not uplaoded yet in github)
-Game fatures - TODO list(not uploaded yet in github)
+## Pygame 
+* Pygame is a set of Python modules designed for writing video games.
+* Documentation is very friendly for beginners.
+
+## Game functionality:
+* Multy levels including different code to build levels in UI .
+* Evolving and increasing pokemon strength.
+* Animation .
+* Differents Whethear conditions.
+* Enemies AI whos became friends and join to user quest.
+
+## TODO
+* fix game.exe file bug
+* folder structure
+* save status
       
